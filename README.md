@@ -1,2 +1,2 @@
 # africatalking
-An application that consumes any Africastalking APIs:  SMS, USSD and VOICE
+An application that consumes Africastalking APIs:  SMS, USSD and VOICE
